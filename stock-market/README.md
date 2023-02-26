@@ -18,6 +18,3 @@ In this project I worked on Real-Time Stock Market Data Analysis using Kafka.
 
 ## Dataset Used
 Here is the dataset link  - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
-
-## Mentor
-Darshil Parmar
